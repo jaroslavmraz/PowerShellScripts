@@ -2,7 +2,7 @@
 #
 # Usage: ./TakeOwnerShipToAdminGroup.ps1 -dir "DIRECTORY TO CHANGE RIGHTS"
 #
-# v.1 Created by Jaroslav Mráz https://github.com/JEREYMNO
+# v.1 Created by Jaroslav Mráz https://github.com/jaroslavmraz/
 
  param([string] $dir)
  
