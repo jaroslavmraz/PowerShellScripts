@@ -9,7 +9,7 @@
     PRTG_WINDOWS_ookla_SpeedTestNet.ps1
     .Notes
     NAME:  PRTG_WINDOWS_ookla_SpeedTestNet.ps1
-    AUTHOR: Jaroslav Mráz
+    AUTHOR: Jaroslav Mráz, with help of Andrej Mihaliak
     LASTEDIT: 10/03/2022
     VERSION: 1.0
     KEYWORDS: PRTG, Windows, Internet Speed Test
